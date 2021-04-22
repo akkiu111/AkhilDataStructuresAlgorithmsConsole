@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\bin\Debug\AStarAlgorithm.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\bin\Debug\AStarAlgorithm.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\obj\Debug\AStarAlgorithm.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\obj\Debug\AStarAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\obj\Debug\AStarAlgorithm.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AStarAlgorithm\AStarAlgorithm\obj\Debug\AStarAlgorithm.pdb

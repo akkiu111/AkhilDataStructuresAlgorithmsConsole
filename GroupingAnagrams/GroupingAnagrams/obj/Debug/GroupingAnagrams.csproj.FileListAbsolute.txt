@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\obj\Debug\GroupingAnagrams.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\obj\Debug\GroupingAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\bin\Debug\GroupingAnagrams.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\bin\Debug\GroupingAnagrams.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\bin\Debug\GroupingAnagrams.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\obj\Debug\GroupingAnagrams.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\GroupingAnagrams\GroupingAnagrams\obj\Debug\GroupingAnagrams.pdb

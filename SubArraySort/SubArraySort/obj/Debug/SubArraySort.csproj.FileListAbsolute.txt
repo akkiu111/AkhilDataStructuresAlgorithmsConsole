@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\bin\Debug\SubArraySort.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\bin\Debug\SubArraySort.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\bin\Debug\SubArraySort.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\obj\Debug\SubArraySort.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\obj\Debug\SubArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\obj\Debug\SubArraySort.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubArraySort\SubArraySort\obj\Debug\SubArraySort.pdb

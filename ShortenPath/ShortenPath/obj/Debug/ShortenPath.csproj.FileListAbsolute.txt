@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\bin\Debug\ShortenPath.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\bin\Debug\ShortenPath.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\bin\Debug\ShortenPath.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\obj\Debug\ShortenPath.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\obj\Debug\ShortenPath.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\obj\Debug\ShortenPath.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ShortenPath\ShortenPath\obj\Debug\ShortenPath.pdb

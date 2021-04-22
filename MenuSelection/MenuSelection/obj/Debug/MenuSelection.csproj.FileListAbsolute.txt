@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\bin\Debug\MenuSelection.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\bin\Debug\MenuSelection.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\bin\Debug\MenuSelection.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\obj\Debug\MenuSelection.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\obj\Debug\MenuSelection.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\obj\Debug\MenuSelection.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MenuSelection\MenuSelection\obj\Debug\MenuSelection.pdb

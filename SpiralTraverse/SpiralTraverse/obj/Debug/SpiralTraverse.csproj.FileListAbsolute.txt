@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\bin\Debug\SpiralTraverse.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\bin\Debug\SpiralTraverse.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\bin\Debug\SpiralTraverse.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\obj\Debug\SpiralTraverse.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\obj\Debug\SpiralTraverse.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\obj\Debug\SpiralTraverse.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SpiralTraverse\SpiralTraverse\obj\Debug\SpiralTraverse.pdb

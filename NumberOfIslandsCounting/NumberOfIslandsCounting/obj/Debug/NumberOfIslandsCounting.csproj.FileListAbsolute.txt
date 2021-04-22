@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\bin\Debug\NumberOfIslandsCounting.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\bin\Debug\NumberOfIslandsCounting.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\bin\Debug\NumberOfIslandsCounting.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\obj\Debug\NumberOfIslandsCounting.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\obj\Debug\NumberOfIslandsCounting.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\obj\Debug\NumberOfIslandsCounting.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\NumberOfIslandsCounting\NumberOfIslandsCounting\obj\Debug\NumberOfIslandsCounting.pdb

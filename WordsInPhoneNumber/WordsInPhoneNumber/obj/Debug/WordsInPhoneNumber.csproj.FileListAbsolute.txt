@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\obj\Debug\WordsInPhoneNumber.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\obj\Debug\WordsInPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\bin\Debug\WordsInPhoneNumber.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\bin\Debug\WordsInPhoneNumber.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\bin\Debug\WordsInPhoneNumber.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\obj\Debug\WordsInPhoneNumber.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordsInPhoneNumber\WordsInPhoneNumber\obj\Debug\WordsInPhoneNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\bin\Debug\PermutationsWithNoDuplicatePerms.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\bin\Debug\PermutationsWithNoDuplicatePerms.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\bin\Debug\PermutationsWithNoDuplicatePerms.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\obj\Debug\PermutationsWithNoDuplicatePerms.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\obj\Debug\PermutationsWithNoDuplicatePerms.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\obj\Debug\PermutationsWithNoDuplicatePerms.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PermutationsWithNoDuplicatePerms\PermutationsWithNoDuplicatePerms\obj\Debug\PermutationsWithNoDuplicatePerms.pdb

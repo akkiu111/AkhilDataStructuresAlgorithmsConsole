@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\bin\Debug\ReverseEntireString.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\bin\Debug\ReverseEntireString.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\bin\Debug\ReverseEntireString.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\obj\Debug\ReverseEntireString.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\obj\Debug\ReverseEntireString.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\obj\Debug\ReverseEntireString.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ReverseEntireString\ReverseEntireString\obj\Debug\ReverseEntireString.pdb

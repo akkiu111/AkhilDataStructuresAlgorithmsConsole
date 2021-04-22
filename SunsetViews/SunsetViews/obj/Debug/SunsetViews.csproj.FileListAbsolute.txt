@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\bin\Debug\SunsetViews.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\bin\Debug\SunsetViews.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\bin\Debug\SunsetViews.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\obj\Debug\SunsetViews.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\obj\Debug\SunsetViews.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\obj\Debug\SunsetViews.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SunsetViews\SunsetViews\obj\Debug\SunsetViews.pdb

@@ -1,0 +1,6 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RomanToIntegerConversion\RomanToIntegerConversion\obj\Debug\RomanToIntegerConversion.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RomanToIntegerConversion\RomanToIntegerConversion\bin\Debug\RomanToIntegerConversion.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RomanToIntegerConversion\RomanToIntegerConversion\bin\Debug\RomanToIntegerConversion.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RomanToIntegerConversion\RomanToIntegerConversion\bin\Debug\RomanToIntegerConversion.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RomanToIntegerConversion\RomanToIntegerConversion\obj\Debug\RomanToIntegerConversion.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RomanToIntegerConversion\RomanToIntegerConversion\obj\Debug\RomanToIntegerConversion.pdb

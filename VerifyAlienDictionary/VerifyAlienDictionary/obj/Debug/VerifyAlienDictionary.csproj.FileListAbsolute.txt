@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\bin\Debug\VerifyAlienDictionary.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\bin\Debug\VerifyAlienDictionary.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\bin\Debug\VerifyAlienDictionary.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\obj\Debug\VerifyAlienDictionary.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\obj\Debug\VerifyAlienDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\obj\Debug\VerifyAlienDictionary.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\VerifyAlienDictionary\VerifyAlienDictionary\obj\Debug\VerifyAlienDictionary.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\bin\Debug\QueueRemovalsWithConditions.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\bin\Debug\QueueRemovalsWithConditions.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\bin\Debug\QueueRemovalsWithConditions.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\obj\Debug\QueueRemovalsWithConditions.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\obj\Debug\QueueRemovalsWithConditions.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\obj\Debug\QueueRemovalsWithConditions.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\QueueRemovalsWithConditions\QueueRemovalsWithConditions\obj\Debug\QueueRemovalsWithConditions.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\bin\Debug\PiNumbers.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\bin\Debug\PiNumbers.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\bin\Debug\PiNumbers.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\obj\Debug\PiNumbers.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\obj\Debug\PiNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\obj\Debug\PiNumbers.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PiNumbers\PiNumbers\obj\Debug\PiNumbers.pdb

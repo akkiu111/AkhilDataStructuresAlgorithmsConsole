@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\bin\Debug\WordDictcionaryUsingTries.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\bin\Debug\WordDictcionaryUsingTries.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\bin\Debug\WordDictcionaryUsingTries.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\obj\Debug\WordDictcionaryUsingTries.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\obj\Debug\WordDictcionaryUsingTries.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\obj\Debug\WordDictcionaryUsingTries.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\WordDictcionaryUsingTries\WordDictcionaryUsingTries\obj\Debug\WordDictcionaryUsingTries.pdb

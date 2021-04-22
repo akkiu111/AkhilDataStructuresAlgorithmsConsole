@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\bin\Debug\LCSOptimalSpace.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\bin\Debug\LCSOptimalSpace.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\bin\Debug\LCSOptimalSpace.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\obj\Debug\LCSOptimalSpace.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\obj\Debug\LCSOptimalSpace.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\obj\Debug\LCSOptimalSpace.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LCSOptimalSpace\LCSOptimalSpace\obj\Debug\LCSOptimalSpace.pdb

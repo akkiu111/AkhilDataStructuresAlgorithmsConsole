@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\bin\Debug\RiverSizesList.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\bin\Debug\RiverSizesList.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\bin\Debug\RiverSizesList.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\obj\Debug\RiverSizesList.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\obj\Debug\RiverSizesList.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\obj\Debug\RiverSizesList.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RiverSizesList\RiverSizesList\obj\Debug\RiverSizesList.pdb

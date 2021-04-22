@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\bin\Debug\SmallestSubstringContaining.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\bin\Debug\SmallestSubstringContaining.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\bin\Debug\SmallestSubstringContaining.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\obj\Debug\SmallestSubstringContaining.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\obj\Debug\SmallestSubstringContaining.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\obj\Debug\SmallestSubstringContaining.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SmallestSubstringContaining\SmallestSubstringContaining\obj\Debug\SmallestSubstringContaining.pdb

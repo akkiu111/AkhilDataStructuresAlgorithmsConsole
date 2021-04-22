@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\bin\Debug\IsValidPalindromeWithOneDeletion.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\bin\Debug\IsValidPalindromeWithOneDeletion.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\bin\Debug\IsValidPalindromeWithOneDeletion.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\obj\Debug\IsValidPalindromeWithOneDeletion.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\obj\Debug\IsValidPalindromeWithOneDeletion.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\obj\Debug\IsValidPalindromeWithOneDeletion.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\IsValidPalindromeWithOneDeletion\IsValidPalindromeWithOneDeletion\obj\Debug\IsValidPalindromeWithOneDeletion.pdb

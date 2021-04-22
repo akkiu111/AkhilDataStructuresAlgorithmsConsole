@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.exe.config
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.exe
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.pdb
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.exe
+C:\Users\Akhil Kondabathini\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.pdb

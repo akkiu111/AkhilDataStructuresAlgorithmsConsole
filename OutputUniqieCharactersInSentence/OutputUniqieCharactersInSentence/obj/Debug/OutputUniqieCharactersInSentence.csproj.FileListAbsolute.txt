@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\bin\Debug\OutputUniqieCharactersInSentence.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\bin\Debug\OutputUniqieCharactersInSentence.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\bin\Debug\OutputUniqieCharactersInSentence.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\obj\Debug\OutputUniqieCharactersInSentence.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\obj\Debug\OutputUniqieCharactersInSentence.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\obj\Debug\OutputUniqieCharactersInSentence.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OutputUniqieCharactersInSentence\OutputUniqieCharactersInSentence\obj\Debug\OutputUniqieCharactersInSentence.pdb

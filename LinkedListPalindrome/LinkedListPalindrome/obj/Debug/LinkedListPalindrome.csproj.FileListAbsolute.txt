@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\bin\Debug\LinkedListPalindrome.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\bin\Debug\LinkedListPalindrome.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\bin\Debug\LinkedListPalindrome.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.pdb

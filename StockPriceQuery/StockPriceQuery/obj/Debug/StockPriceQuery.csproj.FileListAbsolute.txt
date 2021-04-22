@@ -1,0 +1,14 @@
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\bin\Debug\StockPriceQuery.exe.config
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\bin\Debug\StockPriceQuery.exe
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\bin\Debug\StockPriceQuery.pdb
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.exe
+C:\Users\Akhil Kondabathini\source\repos\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\bin\Debug\StockPriceQuery.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\bin\Debug\StockPriceQuery.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\bin\Debug\StockPriceQuery.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\StockPriceQuery\StockPriceQuery\obj\Debug\StockPriceQuery.pdb

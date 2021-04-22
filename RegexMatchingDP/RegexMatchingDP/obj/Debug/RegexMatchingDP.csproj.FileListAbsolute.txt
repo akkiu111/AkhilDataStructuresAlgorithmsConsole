@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\bin\Debug\RegexMatchingDP.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\bin\Debug\RegexMatchingDP.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\bin\Debug\RegexMatchingDP.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\obj\Debug\RegexMatchingDP.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\obj\Debug\RegexMatchingDP.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\obj\Debug\RegexMatchingDP.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RegexMatchingDP\RegexMatchingDP\obj\Debug\RegexMatchingDP.pdb

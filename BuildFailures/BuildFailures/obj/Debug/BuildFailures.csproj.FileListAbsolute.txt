@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\bin\Debug\BuildFailures.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\bin\Debug\BuildFailures.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\bin\Debug\BuildFailures.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\obj\Debug\BuildFailures.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\obj\Debug\BuildFailures.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\obj\Debug\BuildFailures.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BuildFailures\BuildFailures\obj\Debug\BuildFailures.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\bin\Debug\ComputePower.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\bin\Debug\ComputePower.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\bin\Debug\ComputePower.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\obj\Debug\ComputePower.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\obj\Debug\ComputePower.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\obj\Debug\ComputePower.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ComputePower\ComputePower\obj\Debug\ComputePower.pdb

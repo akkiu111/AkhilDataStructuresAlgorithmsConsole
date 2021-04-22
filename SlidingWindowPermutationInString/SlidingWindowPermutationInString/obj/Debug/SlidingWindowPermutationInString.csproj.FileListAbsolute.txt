@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\obj\Debug\SlidingWindowPermutationInString.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\obj\Debug\SlidingWindowPermutationInString.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\bin\Debug\SlidingWindowPermutationInString.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\bin\Debug\SlidingWindowPermutationInString.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\bin\Debug\SlidingWindowPermutationInString.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\obj\Debug\SlidingWindowPermutationInString.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SlidingWindowPermutationInString\SlidingWindowPermutationInString\obj\Debug\SlidingWindowPermutationInString.pdb

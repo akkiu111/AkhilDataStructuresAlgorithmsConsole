@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\bin\Debug\DiskStacking.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\bin\Debug\DiskStacking.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\bin\Debug\DiskStacking.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\obj\Debug\DiskStacking.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\obj\Debug\DiskStacking.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\obj\Debug\DiskStacking.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\DiskStacking\DiskStacking\obj\Debug\DiskStacking.pdb

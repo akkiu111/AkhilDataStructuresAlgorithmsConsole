@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\obj\Debug\MultiStringSearchSuffixTrie.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\obj\Debug\MultiStringSearchSuffixTrie.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\bin\Debug\MultiStringSearchSuffixTrie.exe.config
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\bin\Debug\MultiStringSearchSuffixTrie.exe
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\bin\Debug\MultiStringSearchSuffixTrie.pdb
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\obj\Debug\MultiStringSearchSuffixTrie.exe
+C:\Users\Akhil Kondabathini\source\repos\MultiStringSearchSuffixTrie\MultiStringSearchSuffixTrie\obj\Debug\MultiStringSearchSuffixTrie.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\bin\Debug\UnderscorifyTheSubstring.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\bin\Debug\UnderscorifyTheSubstring.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\bin\Debug\UnderscorifyTheSubstring.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\obj\Debug\UnderscorifyTheSubstring.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\obj\Debug\UnderscorifyTheSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\obj\Debug\UnderscorifyTheSubstring.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnderscorifyTheSubstring\UnderscorifyTheSubstring\obj\Debug\UnderscorifyTheSubstring.pdb

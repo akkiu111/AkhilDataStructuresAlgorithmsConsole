@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\bin\Debug\BreadthAndDepthFirstSearch.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\bin\Debug\BreadthAndDepthFirstSearch.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\bin\Debug\BreadthAndDepthFirstSearch.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\obj\Debug\BreadthAndDepthFirstSearch.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\obj\Debug\BreadthAndDepthFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\obj\Debug\BreadthAndDepthFirstSearch.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\BreadthAndDepthFirstSearch\BreadthAndDepthFirstSearch\obj\Debug\BreadthAndDepthFirstSearch.pdb

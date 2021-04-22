@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\bin\Debug\UnixShellPathShorten.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\bin\Debug\UnixShellPathShorten.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\bin\Debug\UnixShellPathShorten.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\obj\Debug\UnixShellPathShorten.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\obj\Debug\UnixShellPathShorten.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\obj\Debug\UnixShellPathShorten.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\UnixShellPathShorten\UnixShellPathShorten\obj\Debug\UnixShellPathShorten.pdb

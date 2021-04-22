@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\bin\Debug\LongestPeak.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\bin\Debug\LongestPeak.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\bin\Debug\LongestPeak.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\obj\Debug\LongestPeak.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\obj\Debug\LongestPeak.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\obj\Debug\LongestPeak.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\LongestPeak\LongestPeak\obj\Debug\LongestPeak.pdb

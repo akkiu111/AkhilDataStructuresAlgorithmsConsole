@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\KadanesAlgorithm\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\bin\Debug\FindNextPermutation.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\bin\Debug\FindNextPermutation.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\bin\Debug\FindNextPermutation.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\obj\Debug\FindNextPermutation.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\obj\Debug\FindNextPermutation.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\obj\Debug\FindNextPermutation.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\FindNextPermutation\FindNextPermutation\obj\Debug\FindNextPermutation.pdb

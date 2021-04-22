@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\OddEvenLinkedList.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\OddEvenLinkedList.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\OddEvenLinkedList.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\OddEvenLinkedList.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\OddEvenLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\OddEvenLinkedList.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\OddEvenLinkedList.pdb

@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\bin\Debug\ConvertStringToIntegerAToI.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\bin\Debug\ConvertStringToIntegerAToI.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\bin\Debug\ConvertStringToIntegerAToI.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\obj\Debug\ConvertStringToIntegerAToI.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\obj\Debug\ConvertStringToIntegerAToI.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\obj\Debug\ConvertStringToIntegerAToI.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ConvertStringToIntegerAToI\ConvertStringToIntegerAToI\obj\Debug\ConvertStringToIntegerAToI.pdb

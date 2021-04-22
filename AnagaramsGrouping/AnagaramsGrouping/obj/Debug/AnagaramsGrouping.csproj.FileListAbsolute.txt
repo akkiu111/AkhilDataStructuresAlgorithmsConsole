@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\bin\Debug\AnagaramsGrouping.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\bin\Debug\AnagaramsGrouping.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\bin\Debug\AnagaramsGrouping.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\obj\Debug\AnagaramsGrouping.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\obj\Debug\AnagaramsGrouping.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\obj\Debug\AnagaramsGrouping.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\AnagaramsGrouping\AnagaramsGrouping\obj\Debug\AnagaramsGrouping.pdb

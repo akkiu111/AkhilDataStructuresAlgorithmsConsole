@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\bin\Debug\PatternMatcher.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\bin\Debug\PatternMatcher.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\bin\Debug\PatternMatcher.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\obj\Debug\PatternMatcher.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\obj\Debug\PatternMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\obj\Debug\PatternMatcher.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PatternMatcher\PatternMatcher\obj\Debug\PatternMatcher.pdb

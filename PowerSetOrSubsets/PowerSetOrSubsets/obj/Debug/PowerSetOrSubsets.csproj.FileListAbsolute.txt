@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\bin\Debug\PowerSetOrSubsets.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\bin\Debug\PowerSetOrSubsets.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\bin\Debug\PowerSetOrSubsets.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\obj\Debug\PowerSetOrSubsets.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\obj\Debug\PowerSetOrSubsets.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\obj\Debug\PowerSetOrSubsets.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PowerSetOrSubsets\PowerSetOrSubsets\obj\Debug\PowerSetOrSubsets.pdb

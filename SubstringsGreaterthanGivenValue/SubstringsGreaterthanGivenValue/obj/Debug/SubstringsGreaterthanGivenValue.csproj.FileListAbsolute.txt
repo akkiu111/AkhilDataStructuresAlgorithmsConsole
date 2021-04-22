@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\bin\Debug\SubstringsGreaterthanGivenValue.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\bin\Debug\SubstringsGreaterthanGivenValue.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\bin\Debug\SubstringsGreaterthanGivenValue.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\obj\Debug\SubstringsGreaterthanGivenValue.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\obj\Debug\SubstringsGreaterthanGivenValue.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\obj\Debug\SubstringsGreaterthanGivenValue.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SubstringsGreaterthanGivenValue\SubstringsGreaterthanGivenValue\obj\Debug\SubstringsGreaterthanGivenValue.pdb

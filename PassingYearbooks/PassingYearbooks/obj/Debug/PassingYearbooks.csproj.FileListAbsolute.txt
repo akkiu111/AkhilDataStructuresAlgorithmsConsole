@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\obj\Debug\PassingYearbooks.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\obj\Debug\PassingYearbooks.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\bin\Debug\PassingYearbooks.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\bin\Debug\PassingYearbooks.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\bin\Debug\PassingYearbooks.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\obj\Debug\PassingYearbooks.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\PassingYearbooks\PassingYearbooks\obj\Debug\PassingYearbooks.pdb

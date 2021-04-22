@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindClosestValueInBST", "FindClosestValueInBST\FindClosestValueInBST.csproj", "{6905F081-B454-4DE8-824C-76273EF87CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6905F081-B454-4DE8-824C-76273EF87CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6905F081-B454-4DE8-824C-76273EF87CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6905F081-B454-4DE8-824C-76273EF87CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6905F081-B454-4DE8-824C-76273EF87CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7ADE7D-B3FD-43AA-84F7-AEE4374B451E}
+	EndGlobalSection
+EndGlobal
