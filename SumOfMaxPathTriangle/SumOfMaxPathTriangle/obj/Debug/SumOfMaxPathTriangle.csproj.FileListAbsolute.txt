@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\bin\Debug\SumOfMaxPathTriangle.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\bin\Debug\SumOfMaxPathTriangle.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\bin\Debug\SumOfMaxPathTriangle.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\obj\Debug\SumOfMaxPathTriangle.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\obj\Debug\SumOfMaxPathTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\obj\Debug\SumOfMaxPathTriangle.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SumOfMaxPathTriangle\SumOfMaxPathTriangle\obj\Debug\SumOfMaxPathTriangle.pdb

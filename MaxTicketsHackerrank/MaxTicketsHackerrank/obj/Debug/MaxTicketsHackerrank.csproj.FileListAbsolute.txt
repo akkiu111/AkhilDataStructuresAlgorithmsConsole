@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\bin\Debug\MaxTicketsHackerrank.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\bin\Debug\MaxTicketsHackerrank.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\bin\Debug\MaxTicketsHackerrank.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\obj\Debug\MaxTicketsHackerrank.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\obj\Debug\MaxTicketsHackerrank.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\obj\Debug\MaxTicketsHackerrank.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MaxTicketsHackerrank\MaxTicketsHackerrank\obj\Debug\MaxTicketsHackerrank.pdb

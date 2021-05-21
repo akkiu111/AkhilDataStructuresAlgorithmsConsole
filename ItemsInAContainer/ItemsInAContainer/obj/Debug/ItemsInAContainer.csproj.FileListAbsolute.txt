@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\obj\Debug\ItemsInAContainer.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\obj\Debug\ItemsInAContainer.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\bin\Debug\ItemsInAContainer.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\bin\Debug\ItemsInAContainer.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\bin\Debug\ItemsInAContainer.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\obj\Debug\ItemsInAContainer.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\ItemsInAContainer\ItemsInAContainer\obj\Debug\ItemsInAContainer.pdb

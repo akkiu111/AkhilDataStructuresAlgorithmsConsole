@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\bin\Debug\MissingComplimentaryNumber.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\bin\Debug\MissingComplimentaryNumber.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\bin\Debug\MissingComplimentaryNumber.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\obj\Debug\MissingComplimentaryNumber.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\obj\Debug\MissingComplimentaryNumber.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\obj\Debug\MissingComplimentaryNumber.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MissingComplimentaryNumber\MissingComplimentaryNumber\obj\Debug\MissingComplimentaryNumber.pdb

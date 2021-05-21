@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\bin\Debug\RectangularAreaHistogram.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\bin\Debug\RectangularAreaHistogram.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\bin\Debug\RectangularAreaHistogram.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\obj\Debug\RectangularAreaHistogram.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\obj\Debug\RectangularAreaHistogram.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\obj\Debug\RectangularAreaHistogram.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\RectangularAreaHistogram\RectangularAreaHistogram\obj\Debug\RectangularAreaHistogram.pdb

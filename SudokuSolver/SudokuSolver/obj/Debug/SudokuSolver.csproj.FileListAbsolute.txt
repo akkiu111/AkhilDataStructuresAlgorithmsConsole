@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
