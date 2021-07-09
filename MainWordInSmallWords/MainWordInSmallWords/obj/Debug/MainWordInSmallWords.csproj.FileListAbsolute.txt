@@ -1,0 +1,7 @@
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\bin\Debug\MainWordInSmallWords.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\bin\Debug\MainWordInSmallWords.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\bin\Debug\MainWordInSmallWords.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\obj\Debug\MainWordInSmallWords.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\obj\Debug\MainWordInSmallWords.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\obj\Debug\MainWordInSmallWords.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MainWordInSmallWords\MainWordInSmallWords\obj\Debug\MainWordInSmallWords.pdb

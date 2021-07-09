@@ -5,3 +5,10 @@ C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console A
 C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.csproj.CoreCompileInputs.cache
 C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.exe
 C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\bin\Debug\MergeIntervalsSort.exe.config
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\bin\Debug\MergeIntervalsSort.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\bin\Debug\MergeIntervalsSort.pdb
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.csprojAssemblyReference.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.csproj.CoreCompileInputs.cache
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.exe
+C:\Users\Akhil Kondabathini\source\repos\Akhil .Net Applications\Akhil DataStructures And Algorithms Console Apps\MergeIntervalsSort\MergeIntervalsSort\obj\Debug\MergeIntervalsSort.pdb
